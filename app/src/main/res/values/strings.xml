@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JonathanIbarra</string>
+    <string name="CalculaDefinitiva">Calcular definitiva</string>
+    <string name="ResultadoEs">Resultado es:</string>
+    <string name="AcercaDe">Acerca De</string>
+    <string name="PrimeraNota">Primera Nota</string>
+    <string name="SegundaNota">Segunda Nota</string>
+    <string name="TerceraNota">Tercera Nota</string>
+    <string name="CalcularNota">Calcular Nota</string>
+</resources>

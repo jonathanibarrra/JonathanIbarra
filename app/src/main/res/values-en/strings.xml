@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Result is:</string>
+    <string name="CalculaDefinitiva">Calculate definitive</string>
+    <string name="ResultadoEs">Result is</string>
+    <string name="AcercaDe">About</string>
+    <string name="PrimeraNota">First Note</string>
+    <string name="SegundaNota">Second Note</string>
+    <string name="CalcularNota">Calculate Note</string>
+    <string name="TerceraNota">Third Note</string>
+</resources>
